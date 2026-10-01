@@ -1,0 +1,6 @@
+{
+  "name": "Smart Lab Report",
+  "description": "Turn clinical lab result PDFs into patient-friendly smart reports with biomarker panels, trend tracking, doctor questions, and deterministic catalog matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
