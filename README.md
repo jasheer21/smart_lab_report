@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Lab Report
 
 Turns a lab result PDF into a patient-friendly report: biomarkers grouped into panels, in-range /
@@ -53,3 +54,6 @@ Errors: 400 invalid input, 404 report not found or expired, 413 file too large, 
 
 - `npm run lint` — type-checks the frontend and the server
 - `npm run test:server` — parser and API tests (uses generated PDFs; never calls Gemini)
+=======
+# smart_lab_report
+>>>>>>> 01050831c70b98f237434d8dd8124637e8547335
